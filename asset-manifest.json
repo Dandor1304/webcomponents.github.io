@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/webcomponents.github.io/static/css/main.a9089c74.chunk.css",
+    "main.js": "/webcomponents.github.io/static/js/main.9ab29614.chunk.js",
+    "main.js.map": "/webcomponents.github.io/static/js/main.9ab29614.chunk.js.map",
+    "runtime~main.js": "/webcomponents.github.io/static/js/runtime~main.fd43110f.js",
+    "runtime~main.js.map": "/webcomponents.github.io/static/js/runtime~main.fd43110f.js.map",
+    "static/js/2.1a240082.chunk.js": "/webcomponents.github.io/static/js/2.1a240082.chunk.js",
+    "static/js/2.1a240082.chunk.js.map": "/webcomponents.github.io/static/js/2.1a240082.chunk.js.map",
+    "index.html": "/webcomponents.github.io/index.html",
+    "precache-manifest.5985c7423b3130016ec2771b3833694d.js": "/webcomponents.github.io/precache-manifest.5985c7423b3130016ec2771b3833694d.js",
+    "service-worker.js": "/webcomponents.github.io/service-worker.js",
+    "static/css/main.a9089c74.chunk.css.map": "/webcomponents.github.io/static/css/main.a9089c74.chunk.css.map"
+  }
+}
